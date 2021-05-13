@@ -2,8 +2,8 @@ let ListOfCuriosities = ["Cofając się do pierwszego filmu MCU, czyli Iron Man.
 "Teraz czas na jakąś ciekawostkę z Thorem, a właściwe ciekawostkę z filmami gdzie występuje Thor, do każdego filmu jest wykonywane kilka wersji mjolnira "]
 
 function TimeoutRandom() {
-    let item = ListOfCuriosities[Math.floor(Math.random() * ListOfCuriosities.length)];
-    document.getElementById("curiosities").innerHTML = item;
+    let RandomItem = ListOfCuriosities[Math.floor(Math.random() * ListOfCuriosities.length)];
+    document.getElementById("curiosities").innerHTML = RandomItem;
 }
 
 window.setInterval(TimeoutRandom, 10000)
