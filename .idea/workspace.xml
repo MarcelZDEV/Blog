@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8bbbe1b-6301-45d6-83d2-c42fe044972f" name="Default Changelist" comment="New change:&#10;-cookie&#10;-New name of blog" />
+    <list default="true" id="c8bbbe1b-6301-45d6-83d2-c42fe044972f" name="Default Changelist" comment="New change:&#10;-cookie&#10;-New name of blog">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/Bohaterowie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/Bohaterowie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/Filmy.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/Filmy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/Kapitan Ameryka.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/Kapitan Ameryka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/hulk.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/hulk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/iron man.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/iron man.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/o mnie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/o mnie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/spider man.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/spider man.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/thor.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/thor.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +28,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -48,6 +58,7 @@
       <recent name="C:\Users\marce\Blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marce\Blog\Blog" />
       <recent name="C:\Users\marce\Blog" />
     </key>
   </component>
@@ -142,7 +153,7 @@
       <workItem from="1619609189468" duration="2876000" />
       <workItem from="1619625099479" duration="1126000" />
       <workItem from="1620120732808" duration="9957000" />
-      <workItem from="1620817968993" duration="4487000" />
+      <workItem from="1620817968993" duration="9760000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1620822447621</created>
@@ -158,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620843149031</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New change:&#10;-cookie&#10;-New name of blog">
+      <created>1620843461243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620843461243</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
