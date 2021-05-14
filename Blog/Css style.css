@@ -1,0 +1,7 @@
+.article {
+    height: 200px;
+}
+
+.onHover:hover {
+    background-color: #e60000;
+}
