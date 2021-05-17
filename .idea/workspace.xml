@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8bbbe1b-6301-45d6-83d2-c42fe044972f" name="Default Changelist" comment="New change:&#10;-Animate button&#10;-up date some code&#10;-Add jquery">
-      <change afterPath="$PROJECT_DIR$/Animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Marvel Blog/Js/curiosities.js" afterDir="false" />
+    <list default="true" id="c8bbbe1b-6301-45d6-83d2-c42fe044972f" name="Default Changelist" comment="New change:&#10;-Animate button&#10;-up date some code&#10;-Up date Thor.html&#10;-Up date curiosities.js">
+      <change afterPath="$PROJECT_DIR$/Marvel Blog/Css/Animate.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/.idea/Blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/.idea/Blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/Bohaterowie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Bohaterowie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/Css style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Css style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/Filmy.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Filmy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/Js/Cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Js/Cookie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/Js/curiosities.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/Kapitan Ameryka.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Kapitan Ameryka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/Stan Lee.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Stan Lee.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/hulk.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/hulk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/iron man.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/iron man.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/o mnie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/o mnie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/spider man.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/spider man.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/thor.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/thor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/thor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marvel Blog/Bohaterowie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Bohaterowie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marvel Blog/Css/Css style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Css/Css style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marvel Blog/Kapitan Ameryka.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Kapitan Ameryka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marvel Blog/hulk.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/hulk.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +64,11 @@
       <recent name="C:\Users\marce\Blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marce\Blog\Marvel Blog\Css" />
+      <recent name="C:\Users\marce\Blog\Css" />
+      <recent name="C:\Users\marce\Blog\Marvel Blog" />
       <recent name="C:\Users\marce\Blog\Blog\Js" />
       <recent name="C:\Users\marce\Blog\Blog" />
-      <recent name="C:\Users\marce\Blog" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -176,7 +166,7 @@
       <workItem from="1620995664318" duration="14000" />
       <workItem from="1620995693718" duration="123000" />
       <workItem from="1620995828121" duration="2428000" />
-      <workItem from="1621106423071" duration="7824000" />
+      <workItem from="1621106423071" duration="11278000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1620822447621</created>
@@ -227,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620996373016</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New change:&#10;-Animate button&#10;-up date some code&#10;-Up date Thor.html&#10;-Up date curiosities.js">
+      <created>1621270013781</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621270013781</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +248,8 @@
     <MESSAGE value="New change:&#10;-Add curiosities mechanism&#10;-up date some code" />
     <MESSAGE value="New change:&#10;-Add curiosities mechanism&#10;-up date some code&#10;-New title" />
     <MESSAGE value="New change:&#10;-new curiosities mechanism&#10;-up date some code&#10;-Add css" />
-    <option name="LAST_COMMIT_MESSAGE" value="New change:&#10;-new curiosities mechanism&#10;-up date some code&#10;-Add css" />
+    <MESSAGE value="New change:&#10;-Animate button&#10;-up date some code&#10;-Up date Thor.html&#10;-Up date curiosities.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="New change:&#10;-Animate button&#10;-up date some code&#10;-Up date Thor.html&#10;-Up date curiosities.js" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
