@@ -12,18 +12,16 @@
     <link rel="stylesheet" href="Css/Css%20style.css">
     <link rel="stylesheet" href="Css/Animate.css">
 </head>
-<body onload="checkCookie()">
+<body onload="checkCookie()" onkeypress="BackTo(), ForwardTo()">
 <header>
-    <div class="container-fluid bg-info">
+    <div class="container-fluid bg-info col-xs-12">
         <p class="text-center display-3">Uniwersum fanów Marvela</p>
         <nav>
-            <div class="container-fluid d-flex justify-content-center btn-group">
-                <a class="btn btn-dark onHover text-light mr-auto" onclick="BackTo()">Wroć</a>
-                <a href="blog.html" class="btn btn-dark onHover">Strona Główna</a>
-                <a href="Filmy.html" class="btn btn-dark onHover">Filmy</a>
-                <a href="Bohaterowie.html" class="btn btn-dark onHover">Bohaterowie</a>
-                <a href="o mnie.html" class="btn btn-dark onHover">O Mnie</a>
-                <a class="btn btn-dark onHover text-light ml-auto" onclick="ForwardTo()">Następne</a>
+            <div class="container-fluid d-flex justify-content-center btn-group row">
+                <a href="blog.html" class="btn btn-dark onHover col-sm-2">Strona Główna</a>
+                <a href="Filmy.html" class="btn btn-dark onHover col-sm-2">Filmy</a>
+                <a href="Bohaterowie.html" class="btn btn-dark onHover col-sm-2">Bohaterowie</a>
+                <a href="o mnie.html" class="btn btn-dark onHover col-sm-2">O Mnie</a>
             </div>
         </nav>
     </div>

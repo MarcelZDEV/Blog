@@ -9,31 +9,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-    <link rel="stylesheet" href="Css/Css%20style.css">
     <link rel="stylesheet" href="Css/Animate.css">
 </head>
-<body onload="checkCookie()">
+<body onload="checkCookie()" onkeypress="BackTo(), ForwardTo()">
 <header>
-    <div class="container-fluid bg-info">
+    <div class="container-fluid bg-info col-xs-12">
         <p class="text-center display-3">Uniwersum fanów Marvela</p>
         <nav>
-            <div class="container-fluid d-flex justify-content-center btn-group">
-                <a class="btn btn-dark onHover text-light mr-auto" onclick="BackTo()">Wroć</a>
-                <a href="blog.html" class="btn btn-dark onHover">Strona Główna</a>
-                <a href="Filmy.html" class="btn btn-dark onHover">Filmy</a>
-                <a href="Bohaterowie.html" class="btn btn-dark onHover">Bohaterowie</a>
-                <a href="o mnie.html" class="btn btn-dark onHover">O Mnie</a>
-                <a class="btn btn-dark onHover text-light ml-auto" onclick="ForwardTo()">Następne</a>
+            <div class="container-fluid d-flex justify-content-center btn-group row">
+                <a href="blog.html" class="btn btn-dark onHover col-sm-2">Strona Główna</a>
+                <a href="Filmy.html" class="btn btn-dark onHover col-sm-2">Filmy</a>
+                <a href="Bohaterowie.html" class="btn btn-dark onHover col-sm-2">Bohaterowie</a>
+                <a href="o mnie.html" class="btn btn-dark onHover col-sm-2">O Mnie</a>
             </div>
         </nav>
     </div>
 </header>
 <div class="container-fluid">
-    <p class="text-left">Zastanawialiście się może kiedyś w jakiej kolejnoście są filmy z uniwersum marvel? Jeśli tak to
+    <p class="text-left col-xs-12">Zastanawialiście się może kiedyś w jakiej kolejnoście są filmy z uniwersum marvel? Jeśli tak to
         dobrze trafiłeś. Przedstawie ci filmy w kolejności
         hronologicznej. Jeżeli cię interesuje dany film możesz kliknąć w link i przenieść się na Filmweba.</p>
     <hr>
-    <div class="text-left">
+    <div class="text-left col-xs-12">
         <h4>Filmy w kolejności hronologicznej</h4>
         <br/><br/>
         <i><a class="text-dark" href="https://www.filmweb.pl/film/Iron%20Man-2008-122541#" target="_blank">Iron
