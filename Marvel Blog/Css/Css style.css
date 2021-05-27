@@ -1,0 +1,8 @@
+.quiz-box {
+   width: 250px;
+   height: 100px;
+}
+
+.HoverQuiz:hover {
+   background-color: #28c745!important;
+}

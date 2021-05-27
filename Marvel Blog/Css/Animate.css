@@ -3,12 +3,13 @@
     animation-name: AnimateButton;
     animation-duration: 2s;
     animation-direction: alternate;
+    animation-iteration-count: infinite;
 }
 
 @keyframes AnimateButton {
     0% {
         left: 0px;
-        top: 0px;
+        top: 10px;
     }
     25% {
         left: 0px;

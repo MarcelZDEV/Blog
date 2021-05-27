@@ -11,18 +11,16 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="Css/Animate.css">
 </head>
-<body>
+<body onload="checkCookie()" onkeypress="BackTo(), ForwardTo()">
 <header>
-    <div class="container-fluid bg-info">
+    <div class="container-fluid bg-info col-xs-12">
         <p class="text-center display-3">Uniwersum fanów Marvela</p>
         <nav>
-            <div class="container-fluid d-flex justify-content-center btn-group">
-                <a class="btn btn-dark onHover text-light mr-auto" onclick="BackTo()">Wroć</a>
-                <a href="blog.html" class="btn btn-dark onHover">Strona Główna</a>
-                <a href="Filmy.html" class="btn btn-dark onHover">Filmy</a>
-                <a href="Bohaterowie.html" class="btn btn-dark onHover">Bohaterowie</a>
-                <a href="o mnie.html" class="btn btn-dark onHover">O Mnie</a>
-                <a class="btn btn-dark onHover text-light ml-auto" onclick="ForwardTo()">Następne</a>
+            <div class="container-fluid d-flex justify-content-center btn-group row">
+                <a href="blog.html" class="btn btn-dark onHover col-sm-2">Strona Główna</a>
+                <a href="Filmy.html" class="btn btn-dark onHover col-sm-2">Filmy</a>
+                <a href="Bohaterowie.html" class="btn btn-dark onHover col-sm-2">Bohaterowie</a>
+                <a href="o mnie.html" class="btn btn-dark onHover col-sm-2">O Mnie</a>
             </div>
         </nav>
     </div>
@@ -31,7 +29,7 @@
     <div class="float-left col-xl-2">
         <h5>Quizy</h5>
         <a href="Marvel%20Quiz.html" class="text-dark">Quiz O MCU</a><br/>
-        <a href="#" class="text-dark">Quiz o Stanu Lee</a><br/>
+        <a href="Stan%20Lee%20quiz.html" class="text-dark">Quiz o Stanu Lee</a><br/>
         <a href="#" class="text-dark">Quiz przykładowy</a><br/>
         <a href="#" class="text-dark">A tu drugi</a><br/>
     </div>
@@ -41,11 +39,11 @@
         <h5 class="text-center">Polecane przeze mnie quizy</h5>
         <div class="d-flex justify-content-center col-xs-10">
             <img src="Photos/Stan_Lee_Quiz.jpg" alt="Witaj! Jak widzisz coś się nie wczytało przykro nam"
-                 title="Quiz o Stan Lee. Wibijaj" class="col-4">
+                 title="Quiz o Stan Lee. Wibijaj" class="col-4" onclick="document.location = 'Stan Lee quiz.html'">
+            <img src="Photos/MCU_Quiz.jpg" alt="Witaj! Jak widzisz coś się nie wczytało przykro nam"
+                 title="Quiz o MCU. Wibijaj" class="col-4" onclick="document.location = 'Marvel Quiz.html'">
             <img src="Photos/Stan_Lee_Quiz.jpg" alt="Witaj! Jak widzisz coś się nie wczytało przykro nam"
-                 title="Quiz o Stan Lee. Wibijaj" class="col-4">
-            <img src="Photos/Stan_Lee_Quiz.jpg" alt="Witaj! Jak widzisz coś się nie wczytało przykro nam"
-                 title="Quiz o Stan Lee. Wibijaj" class="col-4">
+                 title="Quiz o Stan Lee. Wibijaj" class="col-4" onclick="document.location = 'Stan Lee quiz.html'">
         </div>
     </header>
 </article>
