@@ -1,8 +1,8 @@
-function setCookie(cname,cvalue,exdays) {
+function setCookie(cname,cValue,exDays) {
     let d = new Date();
-    d.setTime(d.getTime() + (exdays*24*60*60*1000));
-    let expires = "expires=" + d.toGMTString();
-    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    d.setTime(d.getTime() + (exDays*24*60*60*1000));
+    let expires = "expires=" + d.toString();
+    document.cookie = cname + "=" + cValue + ";" + expires + ";path=/";
 }
 
 function getCookie(cname) {
@@ -11,10 +11,10 @@ function getCookie(cname) {
     let ca = decodedCookie.split(';');
     for(let i = 0; i < ca.length; i++) {
         let c = ca[i];
-        while (c.charAt(0) == ' ') {
+        while (c.charAt(0) === ' ') {
             c = c.substring(1);
         }
-        if (c.indexOf(name) == 0) {
+        if (c.indexOf(name) === 0) {
             return c.substring(name.length, c.length);
         }
     }
@@ -23,11 +23,11 @@ function getCookie(cname) {
 
 function checkCookie() {
     let user=getCookie("username");
-    if (user != "") {
+    if (user !== "") {
         console.log("Witaj ponownie " + user)
     } else {
         user = prompt("Proszę wpisz swoje imię:","");
-        if (user != "" && user != null) {
+        if (user !== "" && user != null) {
             setCookie("username", user, 30);
         }
     }

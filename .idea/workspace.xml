@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8bbbe1b-6301-45d6-83d2-c42fe044972f" name="Default Changelist" comment="New change:&#10;-Delete forward button&#10;-Delete back button&#10;-Add ctrl z&#10;-Add ctrl y&#10;-up date Back To&#10;-Up date button in nav to more responsive">
-      <change afterPath="$PROJECT_DIR$/Marvel Blog/Stan Lee quiz.html" afterDir="false" />
+    <list default="true" id="c8bbbe1b-6301-45d6-83d2-c42fe044972f" name="Default Changelist" comment="New change:&#10;final version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marvel Blog/Css/Animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Css/Animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marvel Blog/Css/Css style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Css/Css style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marvel Blog/Marvel Quiz.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Marvel Quiz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marvel Blog/Quiz.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Quiz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marvel Blog/Stann Lee quiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marvel Blog/Js/Cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/Js/Cookie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Marvel Blog/o mnie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Marvel Blog/o mnie.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +32,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Marvel Blog/Js/Back to.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Marvel Blog/Js/Cookie.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Marvel Blog/Js/curiosities.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsBowerSettings">
@@ -168,7 +166,7 @@
       <workItem from="1620995828121" duration="2428000" />
       <workItem from="1621106423071" duration="11278000" />
       <workItem from="1621349788963" duration="23407000" />
-      <workItem from="1621950417467" duration="6335000" />
+      <workItem from="1621950417467" duration="10197000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1620822447621</created>
@@ -247,7 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621859513303</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="New change:&#10;-Delete All file quiz&#10;-">
+      <created>1622114488118</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622114488119</updated>
+    </task>
+    <task id="LOCAL-00013" summary="New change:&#10;final version">
+      <created>1622125250696</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622125250696</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +286,9 @@
     <MESSAGE value="New change:&#10;-Animate button&#10;-up date some code&#10;-Up date Thor.html&#10;-Up date curiosities.js" />
     <MESSAGE value="New change:&#10;-Add quiz side&#10;-Add Forward button&#10;-Add Back button" />
     <MESSAGE value="New change:&#10;-Delete forward button&#10;-Delete back button&#10;-Add ctrl z&#10;-Add ctrl y&#10;-up date Back To&#10;-Up date button in nav to more responsive" />
-    <option name="LAST_COMMIT_MESSAGE" value="New change:&#10;-Delete forward button&#10;-Delete back button&#10;-Add ctrl z&#10;-Add ctrl y&#10;-up date Back To&#10;-Up date button in nav to more responsive" />
+    <MESSAGE value="New change:&#10;-Delete All file quiz&#10;-" />
+    <MESSAGE value="New change:&#10;final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="New change:&#10;final version" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
